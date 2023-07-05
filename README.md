@@ -5,7 +5,7 @@
 
 https://moveit-henna-theta.vercel.app/
 
-**[Move It](https://moveit-henna-theta.vercel.app/)** é uma aplicação mobile para gerenciar grupos de amigos para diferentes jogos.
+**[Move It](https://moveit-henna-theta.vercel.app/)** é uma aplicação web para pequenos exercicíos de alongamentos para devs.
 
 Esse projeto é foi realizado no evento NLW_#4 que está na sua 4° edição. Evento realizado pela [Rocketseat](https://www.rocketseat.com.br "Site da Rockeseat").
 
